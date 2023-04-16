@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T02:57:16.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HX1BlGvJo5ZeqRWgChg0" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T02:57:54.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Wzf1J5taK8svjB4wsLpJ" version="21.1.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="794" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T6XuYBtYMx8qg3Nv54xp-80" value="CAS Life Sciences Data Ingestion Process" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-370" width="780" height="1120" as="geometry" />
+          <mxGeometry x="150" y="-370" width="780" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="T6XuYBtYMx8qg3Nv54xp-81" value="Content Operations" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="T6XuYBtYMx8qg3Nv54xp-80">
           <mxGeometry y="20" width="780" height="410" as="geometry" />
@@ -49,6 +49,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="-270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T6XuYBtYMx8qg3Nv54xp-95" value="PowerBi Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="-342" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
